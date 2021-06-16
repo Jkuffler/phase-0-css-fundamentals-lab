@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+#featured-property figure {
+  text-align: center;
+}
+figcaption{
+  font-size: 80%;
+  text-align: center; /*not sure if this is necessary after aligning featured property correctly */
+}
+nav a{align-content: center;
+  background-color: rgb(66, 179, 51);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#featured-property p{
+  margin: auto;
+  width: 800px;
+  text-align: center;
+  padding-top: 22px;
+  }
+  #details div{
+    float: left;
+    background-color: rgb(18, 126, 24);
+    text-align: center;
+    width: 25%;
+    margin-top: 22px;
+      }
